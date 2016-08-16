@@ -1,0 +1,5 @@
+com/cranberry/almond/service/PersonService.class
+com/cranberry/almond/connection/ConnectionUtil.class
+com/cranberry/almond/dao/PersonDAO.class
+com/cranberry/almond/photo/PhotoEditor.class
+com/cranberry/almond/Criteria/Person.class
